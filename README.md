@@ -3,7 +3,7 @@ The dataset contains a roll of the guests on board the famous ship Titanic, as w
 
 Looking at the description for the data, we can see that we have the following fields available:
 
-### survival: This tells us whether a given person survived (0 = No, 1 = Yes).
+##### survival: This tells us whether a given person survived (0 = No, 1 = Yes).
 pclass: This is a proxy for socio-economic status, where first class is upper, second class is middle, and third class is lower status.
 sex: This tells us whether a given person is male or female.
 age: This is a fractional value if less than 1; for example, 0.25 is 3 months. If the age is estimated, it is in the form of xx.5.
